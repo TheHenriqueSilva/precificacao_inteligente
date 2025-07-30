@@ -1,7 +1,7 @@
 # Análise e Precificação Inteligente de Imóveis para Hospedagem
 
 Este projeto foi desenvolvido como parte do curso **"Pandas: Transformação e Manipulação de Dados"** da Alura, com o objetivo de realizar a limpeza, tratamento e manipulação de um conjunto de dados para precificação inteligente no setor de hospedagem de imóveis.
-
+ 
 ## Descrição do Projeto
 
 O objetivo principal deste projeto é preparar um conjunto de dados brutos, oriundo de informações de hospedagem, para que possa ser utilizado em modelos de *Machine Learning* para precificação inteligente. O notebook `precificacao_imoveis.ipynb` (ou o script Python correspondente) detalha todas as etapas do processo de **ETL (Extract, Transform, Load)**.
